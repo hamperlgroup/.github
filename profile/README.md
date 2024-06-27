@@ -21,5 +21,5 @@ We use innovative microscopy and genomics approaches that sometimes require cust
 
 
 > ### 🧐 Contact us
-- [Hamperl's lab page]([url](https://www.helmholtz-munich.de/en/ies/research-groups/hamperl-lab))
-- stephan.hamperl@helmholtz-munich.de
+- [Hamperl's lab page](https://www.helmholtz-munich.de/en/ies/research-groups/hamperl-lab)
+- Dr. Stephan Hamperl (group leader) - stephan.hamperl@helmholtz-munich.de
