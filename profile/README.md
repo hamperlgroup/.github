@@ -2,7 +2,7 @@
 ---
 ![WhatsApp Image 2024-05-10 at 16 01 04](https://github.com/hamperlgroup/.github/assets/38733664/38afbe60-6a59-4fdb-9e36-de31ad9ad53a)
 ### 📍 Munich, Germany
-*Helmholtz Zentrüm Munich • Institute of Epigenetics and Stem Cells (IES)*
+*Helmholtz Zentrum München • Institute of Epigenetics and Stem Cells (IES)*
 
 ---
 > ### 🧬 Perspective
